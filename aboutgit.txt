@@ -1,0 +1,7 @@
+Git init
+Git add .
+Git status to check which are tracked file 
+
+Git comit -m "comment"
+
+Git log to cheack which are in safe stage

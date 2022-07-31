@@ -1,7 +1,7 @@
 Git init
 Git add .
-Git status to check which are tracked file 
+Git status to check which are in staging area
 
 Git comit -m "comment"
 
-Git log to cheack which are in safe stage
+Git log to cheack which are in safe stage(local repo.)
